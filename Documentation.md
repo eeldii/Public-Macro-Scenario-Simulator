@@ -10,6 +10,8 @@ A program that realistically simulates the outcomes is of course extremely diffi
 
 It is a Python desktop app that was built for macOS with a simple light-themed interface. The app uses Python's standard library. See Research.md for methodology, public data sources, attribution and limitations.
 
+I started the program by creating a rough plan of what I want it to do. The end result is quite similar to the initial plan, but has been expanded to have more functions than originally planned. I also had to fix/simply some of the asset sensitivity historical values manually through an excel file.
+
 <img width="1712" height="1076" alt="image" src="https://github.com/user-attachments/assets/0599bea7-2587-4fba-a488-a7c8210509ac" />
 
 
